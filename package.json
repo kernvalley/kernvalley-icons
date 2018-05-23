@@ -1,0 +1,28 @@
+{
+  "name": "kernvalley-icons",
+  "private": true,
+  "version": "1.0.0",
+  "description": "A collection of icons for KernValley.us",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kernvalley/kernvalley-icons.git"
+  },
+  "keywords": [
+    "svg",
+    "kernvalley",
+    "kernrivervalley",
+    "icons"
+  ],
+  "author": "Chris Zuber <admin@kernvalley.us>",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/kernvalley/kernvalley-icons/issues"
+  },
+  "homepage": "https://github.com/kernvalley/kernvalley-icons#readme",
+  "devDependencies": {
+    "svgo": "^1.0.5"
+  }
+}
