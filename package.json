@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/kernvalley/kernvalley-icons#readme",
   "devDependencies": {
-    "svgo": "^1.0.5"
+    "svgo": "^3.0.2"
   }
 }
